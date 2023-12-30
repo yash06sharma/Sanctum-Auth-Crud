@@ -70,4 +70,5 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ## Mysql :- http://localhost:8081/index.php?route=/database/structure&db=example_app
 ## serve :- ./vendor/bin/sail artisan
 ## Git Token :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
+## SanctumAuth GIt TOken :- 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
 
